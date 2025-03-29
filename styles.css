@@ -50,7 +50,7 @@ body {
         justify-content: flex-end;
         font-weight: 500;
         text-decoration: line-through;
-        color: grey;
+        color: #808080;
       }
     }
   }
@@ -89,7 +89,7 @@ body {
         justify-content: flex-end;
         font-weight: 500;
         text-decoration: line-through;
-        color: grey;
+        color: #808080;
       }
     }
   }
